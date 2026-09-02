@@ -1,6 +1,7 @@
 package Array.medium;
 
-public class test {
+public class consecutive {
+
 
 
     static int max(int a , int b ) {
